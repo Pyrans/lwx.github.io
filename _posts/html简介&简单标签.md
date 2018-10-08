@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      Xcode Debug 大全
-subtitle:   iOS开发中利用 Xcode 各种调试Bug方法
-date:       2016-10-18
+title:      html简述
+subtitle:   html简介及简单标签
+date:       2018-10-08
 author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - iOS
-    - 开发技巧
-    - Debug
+    - WEB
+    - html简介
+    - 简单标签
 ---
 
 ## 01.01_网页开发基础知识
