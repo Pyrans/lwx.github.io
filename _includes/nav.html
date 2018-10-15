@@ -19,12 +19,13 @@
                     <li>
                         <a href="{{ site.baseurl }}/">Home</a>
                     </li>
-                    {% for page in site.pages %}{% if page.title %}
+<!--                     {% for page in site.pages %}{% if page.title %} -->
                     <li>
 <!--                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> -->
-                        <a href="http://www.pyrans.xyz/liuwenxiang.github.io/">{{ page.title }}</a>
+                        <a href="http://www.pyrans.xyz/liuwenxiang.github.io/">About</a>
                     </li>
-                    {% endif %}{% endfor %}
+                    <li><a href="{{ tags.url | prepend: site.baseurl }}">Tags</a></li>
+<!--                     {% endif %}{% endfor %} -->
                 </ul>
             </div>
         </div>
